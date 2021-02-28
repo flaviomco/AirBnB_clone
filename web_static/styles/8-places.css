@@ -60,7 +60,7 @@
 .number_bathrooms
 {
     width: 100px;
-    display: center;
+    align-items: center;
     justify-content: center;
     flex-wrap: wrap;
 }
